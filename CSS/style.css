@@ -1,5 +1,7 @@
 /* Loboster Font */
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+/* Inter Font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -8,11 +10,47 @@
     
 }
 
+.font-inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
 .logo{
   font-family: "Lobster", sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 1.5rem;
+}
+
+.hero-title  {
+  font-size: 64px;
+  font-weight: 600;
+}
 
 
+.bg-light-blue{
+  background-color: #E7FAFE;
+}
+
+.btn-grey{
+  background-color: #0000000D;
+}
+.recipeIcon{
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+.f-600{
+  font-weight: 600;
+}
+.f-500{
+  font-weight: 500;
+}
+.pad{
+  height: 765px;
+  border-radius: 37px 0px 0px 35px;
+}
+.round{
+  border-radius: 0px 31px 22px 0px;
 }
