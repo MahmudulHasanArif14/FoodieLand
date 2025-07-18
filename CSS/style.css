@@ -54,3 +54,19 @@
 .round{
   border-radius: 0px 31px 22px 0px;
 }
+
+.employee-info {
+  margin-top: 5rem!important;
+}
+
+
+.button-view-recipes{
+padding: 15px 25px;
+border-radius: 12px !important;
+}
+.btn-light-blue{
+  background-color: #E7FAFE;
+  color: #000;  
+  border: none;
+  font-weight: 500;
+}
