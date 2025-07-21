@@ -48,7 +48,7 @@
   font-weight: 500;
 }
 .pad{
-  height: 765px;
+  height: 680px;
   border-radius: 37px 0px 0px 35px;
 }
 .round{
@@ -69,4 +69,7 @@ border-radius: 12px !important;
   color: #000;  
   border: none;
   font-weight: 500;
+}
+.width-side{
+  width: 4vw;
 }
