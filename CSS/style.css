@@ -48,7 +48,7 @@
   font-weight: 500;
 }
 .pad{
-  height: 680px;
+  height: 59;
   border-radius: 37px 0px 0px 35px;
 }
 .round{
@@ -76,3 +76,36 @@ border-radius: 12px !important;
 .delicious-recipes{
 margin-top: 10rem;
 }
+.form-pading{
+  padding: 8rem;
+}
+.t-any{
+  right: 14%;
+  top: 11%;
+}
+.inbox{
+  background: url("../Assets/images/emailbg.png") no-repeat center center;
+  background-size: cover;
+}
+.inbox-radius{
+  border-radius: 4rem;
+}
+
+
+
+
+
+
+  
+
+    .form-control, .form-select {
+      padding: 1rem;
+    }
+
+   
+
+    .btn-submit {
+      padding: 0.75rem 2.5rem;
+      border-radius: 0.75rem;
+    }
+ 
